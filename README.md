@@ -43,6 +43,7 @@
 * Select Kth element
   * Quickselect
   * Using a heap
+* Sliding windows
 
 I did not encounter any dynamic programming questions, though they seem to be popular at Google.
 
@@ -109,3 +110,9 @@ Sample questions:
 * Design a service that ingests songs that a user plays, and an API that returns the user's song leaderboard
 * Design a service that ingests user metrics, and fires off alerts with minimal latency
 * Design a service that returns popular destinations near the user
+
+## What Should You Know
+
+I encountered a lot of tree problems in interviews, so I would emphasize feeling comfortable with recursion, DFS and BFS. A lot of questions that involve backtracking (find the longest palindrome, etc.) can also be solved with recursion. If your solution's run-time is exponential, adding memoization tends to drop the run-time down to quadratic.
+
+A decent number of questions can be solved in-place (reversing a string, Dutch national flag problem, etc.). Practice writing loops with multiple indexes over an array as this will also carry over to sliding windows.
