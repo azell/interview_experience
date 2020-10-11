@@ -74,3 +74,7 @@ As the name indicates, this involves solving a problem using code.  Instead of a
 Whenever I was given a problem to solve, I always repeated it back to the interviewer.  This is useful to verify that you are solving the right problem, and eliminate any ambiguities in the specification.  I would sketch out a couple of possible solutions at a high level and discuss the tradeoffs of each.  Once you have identified your best solution, it is a good idea to ask your interviewer if your porposed solution makes sense.
 
 When implementing your solution, it is advisable to break the functionality into small methods and describe the logic while typing.  Small methods make testing simpler and provide placeholders when sketching out the overall implementation.  Keeping the communication flowing highlights your communication skills, and gives the interview a chance to provide hints or course correct.
+
+### Behavioral Segments
+
+I found this segment the most unpredictable in terms of questions and scope.  I would recommend going over your resume, and highlighting both good and bad interactions with your team, manager and peers.  You want to provide context and details without rambling.  The [STAR technique](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique) is popular.
