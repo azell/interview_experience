@@ -45,3 +45,14 @@
   * Quicksort
 
 I did not encounter any dynamic programming questions, though they seem to be popular at Google.
+
+## Interview Questions
+
+Here are some of the questions I encountered in real interviews:
+
+* Calculate the maximum path sum of a tree
+* Serialize and deserialize a tree
+* Given a sorted integer array with duplicate elements, return how often a given integer occurs in the array
+  * See the binary search variants above
+* Given a dictionary of lowercase words, implement wildcard search
+  * I used a trie and recursion where the wildcard . matches any 1 character
