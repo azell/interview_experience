@@ -29,6 +29,8 @@
 * Big O notation
   * In space
   * In time
+* Binary search
+  * [Variants](https://docs.python.org/3/library/bisect.html)
 * Breadth first seach
 * Depth first search
 * Kadane's algorithm
