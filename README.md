@@ -113,6 +113,6 @@ Sample questions:
 
 ## What Should You Know
 
-I encountered a lot of tree problems in interviews, so I would emphasize feeling comfortable with recursion, DFS and BFS. A lot of questions that involve backtracking (find the longest palindrome, etc.) can also be solved with recursion. If your solution's run-time is exponential, adding memoization tends to drop the run-time down to quadratic.
+I encountered a lot of tree problems in interviews, so I would emphasize feeling comfortable with recursion, DFS and BFS. A lot of questions that involve backtracking (find the longest palindrome, etc.) can also be solved with recursion. If your solution's run-time is exponential, adding memoization tends to drop the run-time down to quadratic. Tree iterators over pre-order, in-order and post-order traversal are also popular.
 
-A decent number of questions can be solved in-place (reversing a string, Dutch national flag problem, etc.). Practice writing loops with multiple indexes over an array as this will also carry over to sliding windows.
+A small number of questions can be solved in-place (reversing a string, Dutch national flag problem, etc.). Practice writing loops with multiple indexes over an array as this will also carry over to sliding windows questions.
