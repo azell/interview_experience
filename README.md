@@ -11,6 +11,9 @@
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [Program Creek Interview Category](https://www.programcreek.com/category/interview/)
 * [Techie Delight](https://www.techiedelight.com/)
+* [50 Coding Interview Questions](https://github.com/azell/interview_experience/raw/main/50-Coding-Interview-Questions-V2.pdf)
+* [Popular Interview Questions This Year](https://leetcode.com/discuss/interview-question/910825/google-bloomberg-others-interview-questions-this-year)
+* [Sample Coding Questions To Review](https://leetcode.com/list/5ahe6ppr/)
 
 ## Data Structures To Know
 
