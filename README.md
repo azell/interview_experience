@@ -14,6 +14,7 @@
 * [Techie Delight](https://www.techiedelight.com/)
 * [50 Coding Interview Questions](https://github.com/azell/interview_experience/raw/main/50-Coding-Interview-Questions-V2.pdf)
 * [Sample Coding Questions To Review](https://leetcode.com/list/5ahe6ppr/)
+* [Passing Your Senior Engineering Coding Interview](https://stevenheidel.medium.com/passing-your-senior-engineering-coding-interview-5a6b30261f68)
 
 ## Data Structures To Know
 
