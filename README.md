@@ -74,8 +74,8 @@ Here are some of the questions I encountered in real interviews:
 * Given a sorted integer array with duplicate elements, calculate how often a given integer occurs in the array
 * Given a dictionary of lowercase words, implement wildcard search where . matches any one character
 * Given a string of nested pairs ([], (), {}) determine if the string is well-formed
-* Given a list of songs, create an interator that provides random songs without duplicates
-* Given an array, create an interator that omits duplicate consecutive elements
+* Given a list of songs, create an iterator that provides random songs without duplicates
+* Given an array, create an iterator that omits duplicate consecutive elements
 * Given a date, return what day of the week the date falls on
 
 ### Behavioral Segments
